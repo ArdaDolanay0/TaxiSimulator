@@ -1,0 +1,10 @@
+
+Taxi Dispatcher simulator:
+Taxis connected to server for customers and go around the map picking them up and dropping them off
+To run program make sure a server with same address as dispatchCenter is not running in the background. Then compile the make file using "make", then run the code my running simulator in the background 
+"./simulator&". If you want to generate customers use "./generate&", you will have to kill that process on your own later on. Then to close sever simply "./stop".
+	
+
+
+
+	
